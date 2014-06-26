@@ -1,5 +1,5 @@
 // The root URL for the RESTful services
-var rootURL = "http://54.200.101.163/leyes-traductor-api/api/index.php";
+var rootURL = "http://grupotnt.udea.edu.co/leyes-traductor-api/api/index.php";
 
 //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
